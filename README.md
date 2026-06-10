@@ -80,3 +80,10 @@ da-sprint/
 数据源自 [Olist 巴西电商公开数据集](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 （CC BY-NC-SA 4.0，**非商业**许可）。本仓库随附其抽样子集，沿用相同许可；
 若将本项目用于商业用途，请自行处理数据授权。
+
+## 反馈
+
+结课时教练会花两分钟收集你的体验反馈(自愿)。三个通道:
+- **[Discussions](https://github.com/alysianoemail-source/da-sprint/discussions)**:体验吐槽、晒项目、提交脱敏后的 learner_log(对改进最有用——它是完整的学习回放)
+- **Issues**:卡壳报告 / 内容错误 / 功能建议,有模板,填空即可
+- 提交日志前请删除姓名、目标公司等个人信息,教练在结课时会帮你做脱敏
